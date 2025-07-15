@@ -961,3 +961,8 @@ st.markdown("🧠 Powered by OpenAI + LangChain + Streamlit + AgenticAI | Built 
 
 #create a table with two columns: layer type and complexity per layer. also tell me the page number from the pdf ive uploaded from 
 # where you got the table.
+
+#what are the two types of RAG models? Explain them with differences between the two.
+
+# create table for: Open-DomainQATestScores.For TQA, left column uses the standard test set for Open Domain QA, right column uses the TQA-Wiki test set.
+# add WQ and CT in previous table and show me updated table
